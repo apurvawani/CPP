@@ -1,8 +1,8 @@
 /*
 Given two positive integers, a & b; for each integer n in the interval [a,b]:
 1.If 1 <= n <= 9, then print the English representation of it in lowercase. That is "one" for 1, "two" for 2, and so on.
-2.Else if n > 9 and it is an even number, then print "even".
-3.Else if n > 9 and it is an odd number, then print "odd".
+2.Else if n > 9 & it is an even number, then print "even".
+3.Else if n > 9 & it is an odd number, then print "odd".
 */
 
 
